@@ -302,7 +302,7 @@ function RegisterPackage() {
                                     <img
                                         src={capturedImage}
                                         alt="Package label"
-                                        className="w-full h-48 object-cover rounded-lg border-2 border-blue-300 dark:border-blue-700"
+                                        className="w-full h-auto rounded-lg border-2 border-blue-300 dark:border-blue-700"
                                     />
                                     <div className="mt-3 flex gap-2">
                                         <button
